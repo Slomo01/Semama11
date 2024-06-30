@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 10px;
+}
+
+
+.fondo{
+    background-image: url(imag/tumblr.webp);
+    background-size: 10%;
+    height: 50px;
+    padding-top: 1px;
+   
+    flex-direction: column;
+    background-color: transparent;
+    border-radius: 22px;
+    rotate: 50px; ;
+    box-shadow: 0 0 15px white;
+   
+    
+    
+    }
+
+.principal2{
+    font-size: 100px;
+    text-align: center;
+    
+    border-radius: 22px;
+    background-size: cover;
+    box-shadow: 0 0 20px 2px white;
+    
+    
+
+}
+
+body{
+    background-color: rgb(43, 226, 180);
+    background-image: url(imag/ear.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fondo:hover{
+    color: brown;
+    outline: 3px solid blue;
+}
+.principal2:hover{
+    color: coral;
+
+}
+li{
+    color: brown;
+}
+li:first-child{
+    color: aqua;
+}
+li:last-child{
+    color: rgb(215, 221, 220);
+}

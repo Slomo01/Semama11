@@ -1,0 +1,38 @@
+*{
+    margin: 0 auto;
+
+    
+}
+.Principal{
+    text-align: center;
+    border: 1px solid white;
+    width: 350px;
+    border-radius: 22px;
+    box-shadow: 0 0  25px orange;
+    background-color: black;
+}
+.Principal p{
+    padding: 15px;
+    text-align: justify;
+    color: white;
+    
+
+
+}
+
+.Principal img{
+    margin: 15px;
+}
+ .Principal .p2{
+    color: white;
+ }
+    
+.Principal .p2 strong{
+    color: rgb(0, 255, 149);
+    margin: 15px;
+
+}
+h2{
+    color: rgb(230, 4, 4);
+}
+
